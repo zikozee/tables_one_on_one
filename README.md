@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/zikozee/tables_one_on_one/tree/master.svg?style=svg)](https://circleci.com/gh/zikozee/tables_one_on_one/tree/master)
 # tables_one_on_one
 Managing one on one table relationship easily
 
