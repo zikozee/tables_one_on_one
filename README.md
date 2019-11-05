@@ -17,4 +17,7 @@ Driver Class:	org.h2.Driver
 JDBC URL:	jdbc:h2:mem:testdb
 User Name:	sa
 Password:	
+
+
+#awesome banner added
    
