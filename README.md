@@ -15,8 +15,8 @@ you can access h2-console via localhost:60000/h2-console
 h2-console defaultconfig below:
 
 Driver Class:	org.h2.Driver
-JDBC URL:	jdbc:h2:mem:testdb
-User Name:	sa
+JDBC URL:	jdbc:h2:mem:testdb, 
+User Name:	sa, 
 Password:	
 
 
